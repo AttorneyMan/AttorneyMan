@@ -2,7 +2,7 @@
 
 - 🎮 I have interest in becoming a game developer
 - 🏗️ Changing my community for the better 
-Here are some ideas to get you started:
+![Alt text](https://png.pngtree.com/thumb_back/fh260/back_our/20190614/ourmid/pngtree-blue-technology-web-banner-image_122453.jpg)
 
 - 🔭 I’m currently working towards having the skills of a Full Stack Developer 
 - 🌱 I’m currently learning too believe in myself to complete task I take on
