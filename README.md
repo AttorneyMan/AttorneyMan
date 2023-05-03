@@ -2,6 +2,7 @@
 
 - 🎮 I have interest in becoming a game developer
 - 🏗️ Changing my community for the better 
+
 ![Alt text](https://i0.wp.com/www.humormilltv.com/wp-content/uploads/2016/04/smartguy.jpg?fit=1000%2C300)
 
 - 🔭 I’m currently working towards having the skills of a Full Stack Developer 
